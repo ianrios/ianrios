@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianrios)](https://github.com/anuraghazra/github-readme-stats)
+[![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ianrios&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ianrios/ianrios** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
