@@ -7,7 +7,7 @@ I'm an open source enthusiast and full stack web developer from the United State
 - 💼 Full Stack Software Engineer at [Big Ass Fans](https://bigassfans.com)
 - 🔭 I’m currently working on a [ThreeJS + ToneJS plant instrument](https://github.com/ianrios/petal)
 - 🌱 I’m currently learning [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
-- 👯 I’m looking to collaborate on an app for groups of people to enact their favorite plays without knowing them by heart
+- 👯 I’m looking to collaborate on fun open source web apps with others!
 - ⚡ Fun fact: I run [a record label](https://github.com/ianrios/WRC)
 <!-- - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub -->
 
