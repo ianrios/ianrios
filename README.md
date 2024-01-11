@@ -4,7 +4,7 @@ I'm an open source enthusiast and full stack web developer from the United State
 
 **About me**
 
-- 💼 Full Stack Software Engineer at [Big Ass Fans](https://bigassfans.com)
+- 💼 Full Stack Software Engineer at [Built](https://getbuilt.com)
 - 🔭 I’m currently working on a [ThreeJS + ToneJS plant instrument](https://github.com/ianrios/petal)
 - 🌱 I’m currently learning [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
 - 👯 I’m looking to collaborate on fun open source web apps with others!
