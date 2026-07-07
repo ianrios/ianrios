@@ -10,5 +10,3 @@ I'm an open-source enthusiast and full-stack web developer from the United State
 - ⚡ Fun fact: I run [a record label](https://github.com/ianrios/WRC)
 
 [![Ian Rios's GitHub stats](https://github-stats-extended.vercel.app/api?username=ianrios)](https://github.com/stats-organization/github-stats-extended)
-[![Ian Rios's Built GitHub stats](https://github-stats-extended.vercel.app/api?username=ianriosbuilt)](https://github.com/stats-organization/github-stats-extended)
-[![Ian Rios's BAF GitHub stats](https://github-stats-extended.vercel.app/api?username=ianriosbaf)](https://github.com/stats-organization/github-stats-extended)
