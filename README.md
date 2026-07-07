@@ -1,13 +1,12 @@
 ### Hi there 👋
 
-I'm an open source enthusiast and full stack web developer from the United States currently living in Lexington, Kentucky
+I'm an open-source enthusiast and full-stack web developer from the United States, currently living in NY, NY
 
 **About me**
 
-- 💼 Full Stack Software Engineer at [Built](https://getbuilt.com)
+- 💼 Full Stack Software Engineer
 - 🔭 I’m currently working on a [ThreeJS + ToneJS plant instrument](https://github.com/ianrios/petal)
-- 🌱 I’m currently learning [react-three-fiber](https://github.com/pmndrs/react-three-fiber)
-- 👯 I’m looking to collaborate on fun open source web apps with others!
+- 🌱 I’m currently learning context engineering
 - ⚡ Fun fact: I run [a record label](https://github.com/ianrios/WRC)
 <!-- - 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **31K** stars on GitHub -->
 
